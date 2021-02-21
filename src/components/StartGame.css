@@ -152,3 +152,19 @@
     width: 240px;
   }
 }
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .start-game {
+    padding: 5% 0 5%;
+  }
+  .selected-choice {
+    width: 60%;
+  }
+  .results {
+    top: 45%;
+    left: 40%;
+  }
+  .results h1 {
+    font-size: 65px;
+  }
+}

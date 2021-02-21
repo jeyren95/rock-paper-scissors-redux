@@ -154,3 +154,21 @@ body {
     left: 37%;
   }
 }
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .home {
+    padding: 15% 0 15%;
+  }
+  .scissors {
+    top: 23%;
+    right: 28%;
+  }
+  .paper {
+    top: 23%;
+    left: 28%;
+  }
+  .rock {
+    top: 54%;
+    left: 41%;
+  }
+}
